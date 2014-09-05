@@ -9,7 +9,6 @@
  */
 
 namespace Aoloe;
-namespace Aoloe;
 
 class Language_detector {
     private $valid = array();
